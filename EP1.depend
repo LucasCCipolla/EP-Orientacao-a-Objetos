@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1556931802 source:c:\users\lucas\documents\ep1\main.cpp
+	"RedeSocial.h"
+	"Disciplina.h"
+	"Evento.h"
+	<string>
+	<iostream>
+
+1556819371 source:c:\users\lucas\documents\ep1\publicacao.cpp
+	"Publicacao.h"
+
+1556819579 c:\users\lucas\documents\ep1\publicacao.h
+	<string>
+	"Perfil.h"
+
+1556931259 c:\users\lucas\documents\ep1\perfil.h
+	<iostream>
+	<string>
+
+1556820059 source:c:\users\lucas\documents\ep1\evento.cpp
+	"Evento.h"
+
+1556915907 c:\users\lucas\documents\ep1\evento.h
+	"Publicacao.h"
+
+1556820296 source:c:\users\lucas\documents\ep1\disciplina.cpp
+	"Disciplina.h"
+
+1556822364 c:\users\lucas\documents\ep1\disciplina.h
+	"Professor.h"
+
+1556926800 c:\users\lucas\documents\ep1\professor.h
+	"Perfil.h"
+
+1556926800 source:c:\users\lucas\documents\ep1\professor.cpp
+	"Professor.h"
+
+1556926822 source:c:\users\lucas\documents\ep1\perfil.cpp
+	"Perfil.h"
+	"Evento.h"
+
+1556923585 source:c:\users\lucas\documents\ep1\redesocial.cpp
+	"RedeSocial.h"
+
+1556931320 c:\users\lucas\documents\ep1\redesocial.h
+	"Perfil.h"
+
